@@ -1,0 +1,14 @@
+# KNOWFOOTBALL - Robots.txt - ROOT FREE DOMAIN VERSION
+User-agent: *
+Allow: /
+
+Sitemap: https://salonsuitepage.github.io/sitemap.xml
+
+User-agent: Googlebot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Host: https://salonsuitepage.github.io/
